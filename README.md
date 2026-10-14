@@ -1,50 +1,60 @@
-# Awesome-Creator-Economy-Sponsorship-Matching-Tools
+<div align="center">
 
-## Top Creator Economy Sponsorship Matching Tools Ecosystem
+<img src="./assets/banner.svg" alt="Awesome Creator Economy Sponsorship Matching Tools Banner" width="100%" />
 
+# 🌟 Awesome Creator Economy Sponsorship Matching Tools
 
+**A curated ecosystem of SaaS platforms & open-source GitHub projects for creator sponsorships, brand-influencer matchmaking, audience intelligence, and partnership analytics.**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Creator-Economy-Sponsorship-Matching-Tools/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Creator-Economy-Sponsorship-Matching-Tools/graphs/commit-activity)
+[![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
 
-*Focused on Audience Analytics, Engagement Scoring & Brand-Creator Fit*  
+*Discover cutting-edge creator economy software, influencer marketing CRM tools, ROI calculators, and self-hosted open-source matching platforms.*
 
-**Last updated: March 2026**
+📅 **Last updated: March 2026**
 
+</div>
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Creator Economy Sponsorship Matching**. These tools enable brands and creators to analyze viewer engagement profiles, project campaign returns, and match sponsorship opportunities—turning audience data into actionable partnership decisions.
+## 📖 Overview
 
+This repository tracks high-impact **SaaS platforms** and **open-source developer tools** designed for **Creator Economy Sponsorship Matching**, influencer discovery, audience analytics, campaign execution, and payout automation.
 
+Whether you are a direct-to-consumer (DTC) brand scouting micro-creators, an agency scaling multi-channel campaigns, or an engineering team building private, self-hosted sponsorship infrastructure, this guide benchmarks enterprise SaaS solutions against open-source alternatives.
 
-**Examples** include Grin, CreatorIQ, Aspire, Upfluence, Captiv8, Traackr, Creator.co, Modash, Impact.com, and NeoReach (the category leaders).
+---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Frameworks & Architecture for Custom Systems](#️-frameworks--architecture-for-custom-systems)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, audience analytics, and open sponsorship infrastructure—ideal for developers, agencies, and platforms seeking transparent, vendor-independent creator matching.
+---
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global creator economy sponsorship and influencer marketing sector is estimated at **$32.5B–$40B+** (heading toward a broader **$480B** creator ecosystem by 2027). The market is **highly fragmented** rather than concentrated/winner-take-all: the top ten platforms hold under 30% of aggregate industry revenue, driven by a massive long tail of over 50 million creators and decentralized brand spend across micro and nano partnerships.
 
-## SaaS/Hosted Platforms
+---
+
+## 💼 SaaS/Hosted Platforms
+
+The table below outlines leading commercial platforms, ranked descending by estimated company valuation / annual recurring revenue (ARR), with transparent starting tier pricing and specific free trial / plan quotas:
 
 | Platform | Company Size (Valuation / Est. Revenue) | Starting Price | Free Tier / Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Impact.com](https://impact.com/)** | **$1.5B valuation** (~$270M+ ARR) | $30/mo (Shopify Starter) or $500/mo (Essentials) | 30-day free trial on self-serve starter plans (credit card required, capped discovery/tracking features) | Partnership management platform covering affiliates, influencers, and B2B partnerships. Features attribution, contract management, and payment processing. |
+| **[Impact.com](https://impact.com/)** | **$1.5B valuation** (~$270M+ ARR) | $30/mo (Shopify Starter) or $500/mo (Essentials) | 30-day free trial on self-serve starter plans (credit card required, capped discovery/tracking features) | Enterprise partnership management platform covering affiliates, influencers, and B2B partnerships. Features attribution, contract management, and payment processing. |
 | **[Grin](https://grin.co/)** | **~$1.0B valuation** (~$35M–$55M ARR) | $200/mo (Starter plan, billed annually) | Free-for-ever tier with 5 creator relationship profiles & limited discovery credits; 30-day free trial for Starter features | All-in-one creator management platform for e-commerce brands. Combines creator discovery, outreach, campaign execution, and reporting with Shopify integration. |
 | **[CreatorIQ](https://www.creatoriq.com/)** | **~$400M–$500M est. val** (~$70M–$100M ARR; $80M+ raised) | $2,500/mo ($30,000/yr billed annually) | 14-day guided proof-of-concept trial via sales qualification (access limited to 1 user and 25 search lookups) | Enterprise influencer marketing platform powered by data science. Features AI-powered creator discovery, campaign management, and enterprise-grade talent CRM. |
 | **[Captiv8](https://captiv8.io/)** | **$150M acquisition valuation** (by Publicis Groupe; ~$25M ARR) | $2,083/mo ($25,000/yr billed annually) | 7-day sales-approved sandbox trial (capped at 50 creator profile analyses and 1 campaign draft) | Creator marketing platform with audience intelligence, creator discovery, and campaign measurement. Features social listening and brand safety tools. |
@@ -55,104 +65,100 @@ The global creator economy sponsorship and influencer marketing sector is estima
 | **[NeoReach](https://neoreach.com/)** | **~$20M–$30M est. val** (~$4M–$5M ARR; $4.3M raised) | $2,083/mo ($25,000/yr billed annually) | 14-day structured sandbox trial upon demo request (capped at 10 creator searches and 3 report exports) | Influencer marketing platform with creator discovery, campaign management, and analytics. Features audience demographics and engagement scoring. |
 | **[Creator.co](https://creator.co/)** | **~$6M–$10M est. val** (~$4M ARR; $1.9M raised) | $299/mo (Self-serve plan) | 7-day limited test trial upon request (view-only marketplace access; maximum 5 creator invites) | Creator marketplace and campaign management platform connecting brands with creators for UGC and influencer campaigns. |
 
-## Open-Source GitHub Projects
+---
 
+## 🔓 Open-Source GitHub Projects
 
+Open-source alternatives provide customizable pipelines, fraud resistance, decentralized monetization, and direct affiliate/referral tracking without vendor lock-in. 
 
-- **[CollabX](https://github.com/rebin03/CollabX)**  
+*Repositories are sorted in descending order by GitHub star count:*
 
-  Open-source influencer marketing platform built with Django (MIT) connecting brands with creators for streamlined collaborations . **The most complete open-source brand-creator matching platform available.** Features: **Influencer Discovery** (search and filter creators by niche), **Collaboration Requests** (view profiles, propose collaborations), **Campaign Management** (add campaigns, review proposals, accept/reject, track working influencers), **Creator Campaign Discovery** (browse and filter campaigns matching niche), **Proposal Submission** (submit interest and proposals), **Campaign Tracking** (status: Pending, Accepted, Rejected, Working, Completed), **Campaign Reporting** (submit reports upon completion), and **Secure Payments via Razorpay** with escrow—influencers paid only after successful campaign completion . Tech stack: Python, Django, SQLite (can be replaced with PostgreSQL/MySQL). MIT licensed. **The only open-source platform covering the full brand-creator collaboration lifecycle.**
+1. **[Affitor / affiliate-skills](https://github.com/Affitor/affiliate-skills)** [![GitHub stars](https://img.shields.io/github/stars/Affitor/affiliate-skills?style=social&color=white)](https://github.com/Affitor/affiliate-skills/stargazers)  
+   🚀 50+ AI agent skills for affiliate marketing automation. Powers research on trending creator content, data-backed promotional copywriting, infographic generation, and automated affiliate funnels compatible with Claude Code, Cursor, ChatGPT, and Gemini.
 
+2. **[amicalhq / refref](https://github.com/amicalhq/refref)** [![GitHub stars](https://img.shields.io/github/stars/amicalhq/refref?style=social&color=white)](https://github.com/amicalhq/refref/stargazers)  
+   🎯 Open-source referral and affiliate marketing platform built with TypeScript, Next.js, PostgreSQL, Redis, and BullMQ (AGPLv3). Features JavaScript attribution snippets, customizable partner reward structures, fraud detection, and an affiliate/creator self-service portal.
 
+3. **[Refferq / Refferq](https://github.com/Refferq/Refferq)** [![GitHub stars](https://img.shields.io/github/stars/Refferq/Refferq?style=social&color=white)](https://github.com/Refferq/Refferq/stargazers)  
+   💳 Modern open-source referral and affiliate marketing platform tailored for SaaS companies (MIT). Built with Next.js 15, React 19, Prisma, and Tailwind CSS. Provides commission automation, payout scheduling (PayPal, Stripe, Wise), affiliate dashboards, and branded tracking assets.
 
-- **[Dashh](https://github.com/alphoder/Dashh)**  
+4. **[AOSSIE-Org / InPactAI](https://github.com/AOSSIE-Org/InPactAI)** [![GitHub stars](https://img.shields.io/github/stars/AOSSIE-Org/InPactAI?style=social&color=white)](https://github.com/AOSSIE-Org/InPactAI/stargazers)  
+   🤖 AI-powered open-source matchmaking engine connecting content creators, brands, and marketing agencies. Employs generative AI, audience analytics, and engagement metrics to estimate sponsorship pricing and maximize partnership ROI.
 
-  Decentralized influencer marketing platform built on Solana with zkTLS proofs, Reclaim Protocol & Blinks for fraud-free campaigns . **The first open-source platform using zero-knowledge proofs for creator verification.** Features: **Campaign Creation** (brands set budget in SOL, target audience demographics, engagement goals like 10,000 story views, campaign duration), **Campaign Publishing** via Solana Action (Blink URL) for easy sharing, **Influencer Participation** (connect Solana wallet, verify Instagram account via Reclaim Protocol), **zkTLS Verification** for fraud-free campaign validation . Tech stack: Node.js, Next.js, Solana Network, MongoDB, Irys decentralized storage, Reclaim Protocol. **The most innovative open-source approach to creator fraud prevention.**
+5. **[sdntsng / sheety-crm](https://github.com/sdntsng/sheety-crm)** [![GitHub stars](https://img.shields.io/github/stars/sdntsng/sheety-crm?style=social&color=white)](https://github.com/sdntsng/sheety-crm/stargazers)  
+   📋 Lightweight, stateless open-source CRM built directly on Google Sheets (MIT). Features Kanban pipelines, creator lead management, and activity tracking—ideal for early-stage creator outreach without infrastructure overhead.
 
+6. **[oratis / influencex](https://github.com/oratis/influencex)** [![GitHub stars](https://img.shields.io/github/stars/oratis/influencex?style=social&color=white)](https://github.com/oratis/influencex/stargazers)  
+   📊 Open-source KOL (Key Opinion Leader) and influencer marketing platform built with React, Node.js, and PostgreSQL. Supports multi-platform creator cataloging, automated outreach workflows, and campaign conversion tracking.
 
+7. **[district0x / StreamTide](https://github.com/district0x/StreamTide)** [![GitHub stars](https://img.shields.io/github/stars/district0x/StreamTide?style=social&color=white)](https://github.com/district0x/StreamTide/stargazers)  
+   🌊 Web3-based decentralized patronage and grant-matching platform designed to amplify community financial support for digital creators through quadratic and pooled funding mechanisms.
 
-- **[StreamTide](https://github.com/district0x/StreamTide)**  
+8. **[alphoder / Dashh](https://github.com/alphoder/Dashh)** [![GitHub stars](https://img.shields.io/github/stars/alphoder/Dashh?style=social&color=white)](https://github.com/alphoder/Dashh/stargazers)  
+   🛡️ Decentralized influencer marketing platform built on Solana utilizing zkTLS zero-knowledge proofs and Reclaim Protocol. Brands post campaigns via Solana Actions (Blinks) and verify creator deliverables and views trustlessly without accessing private credentials.
 
-  Open-source, Web3-based patronage tool amplifying community support for creators through **grant matching** . **Transforms small streams into tidal waves of support.** Mission: develop open-source tools and standards leveraging Web3-powered donation matching to amplify patronage impact. Core values: **Open-Source Empowerment** (creators control data, monetize directly, free from third-party intermediaries), **Sustainability** (models carry forward even if organization faces challenges), **Collaborative Empowerment** (capital and grants allocated based on community signaling), **Organizational Transparency** (working in public, platform-agnostic) . **The most values-driven open-source creator support platform.**
+9. **[rebin03 / CollabX](https://github.com/rebin03/CollabX)** [![GitHub stars](https://img.shields.io/github/stars/rebin03/CollabX)](https://github.com/rebin03/CollabX/stargazers)  
+   🤝 Full-lifecycle influencer collaboration system built with Django and Python (MIT). Manages creator discovery by niche, campaign brief applications, proposal reviews, milestones, and secure escrow payouts via Razorpay.
 
+10. **[OmAmar106 / Influencer-Sponsorship-Engagement-System](https://github.com/OmAmar106/Influencer-Sponsorship-Engagement-System-23f2002152)** [![GitHub stars](https://img.shields.io/github/stars/OmAmar106/Influencer-Sponsorship-Engagement-System-23f2002152?style=social&color=white)](https://github.com/OmAmar106/Influencer-Sponsorship-Engagement-System-23f2002152/stargazers)  
+    📦 Complete sponsorship campaign and contract workflow system connecting brand sponsors with social influencers for deliverable tracking, proposal negotiations, and engagement evaluation.
 
-
-- **[DevFund](https://www.linkedin.com/posts/krishna-khandelwal-470b30280_devfund-buildinpublic-opensource-activity-7438461523926175744-6Yqi)**  
-
-  Open-source platform for supporting open-source creators through **tier-based sponsorship** (in development) . Goal: simple platform where creators receive support without relying on generic donation tools. Features planned: **monthly sponsorship tiers**, exclusive content access, private repos, early project updates. **The most developer-focused open-source sponsorship platform** .
-
-
-
-- **[RefRef](https://github.com/jpgaviria2/refref)**  
-
-  Open-source referral and affiliate marketing platform (AGPLv3, alpha) . Features: **Referral Attribution** (JS snippet for accurate attribution), **Customizable Rewards** (flexible reward system), **Referrer Portal** (UI for referrers to track rewards), **Partner Portal** (dedicated affiliate interface), **Personalized Pages** (automatic referral landing page personalization), **Nudges** (automated reminders), **Fraud Monitoring** (detect fraudulent referral activity), **Manual/Automatic Reward Approval** (configurable validation rules), **Engagement Analytics** (program performance metrics), **Testing Sandbox** . Tech stack: TypeScript, Next.js, PostgreSQL, Redis, BullMQ, Drizzle, Better-Auth. **The most feature-complete open-source affiliate tracking platform.**
-
-
-
-- **[Refferq](https://github.com/Refferq/Refferq)**  
-
-  Open-source referral and affiliate marketing platform for SaaS businesses (MIT) . Features: **Referral Management** (track status: Pending, Approved, Rejected; manual lead conversion; bulk operations), **Commission & Payouts** (automated calculations, flexible rules, NET-15/NET-30 scheduling, PayPal/Bank/Stripe/Wise payouts), **Program Settings** (branding, cookie tracking, country blocking, ToS management), **Email Automation** (welcome, notification, approval, payout confirmations), **Affiliate Dashboard** (earnings overview, click tracking, conversion metrics), **Marketing Resources** (unique links, QR codes, social sharing) . Tech stack: Next.js 15, React 19, TypeScript, PostgreSQL, Prisma, Tailwind CSS. **The most SaaS-focused open-source affiliate platform.**
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[CSTrack Dashboard](https://www.sciencedirect.com/science/article/pii/S2352711025004042)** — Open-source social network data visualization platform for interactive discourse analysis (SoftwareX, 2025) . Features: **network analysis** (Indegree, Outdegree, Eigenvector, Betweenness), **hashtag extraction**, **topic analysis**, **word clouds**, **user influence ranking**, **sentiment analysis**, **activity by country** . Relevant for analyzing creator audience engagement and community discourse.
-
-- **[Sheety CRM](https://github.com/sdntsng/sheety-crm)** — Stateless open-source CRM built on Google Sheets (MIT) . Features pipeline management (Kanban), lead management, and activity feed. Relevant for creator outreach tracking.
-
-- Community **n8n** workflows for creator outreach automation and campaign alert routing.
-
-
-
-**Frameworks for building custom systems**: Combine **CollabX** for full brand-creator collaboration lifecycle with **Dashh** for zkTLS-verified creator campaigns, **RefRef** or **Refferq** for affiliate/referral tracking, **CSTrack Dashboard** for audience analytics, and **PostgreSQL** for persistence—creating a fully self-hosted, enterprise-grade sponsorship matching platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Creator sponsorship platforms handling creator and audience data must comply with data protection regulations (GDPR, CCPA, etc.) and FTC disclosure requirements for sponsored content.
-
-- **Open-source sponsorship matching is emerging, not mature.** CollabX provides the most complete brand-creator collaboration lifecycle , but **no open-source platform provides the audience demographics, engagement scoring, and creator discovery database** of Grin, CreatorIQ, or Modash. Dashh innovates with zkTLS verification , but lacks discovery infrastructure.
-
-- **Creator discovery remains commercial.** No open-source platform offers searchable creator databases with audience analytics, engagement rates, and pricing data. CSTrack Dashboard provides discourse analysis  but not creator marketplace functionality.
-
-- **zkTLS verification is a promising fraud prevention approach.** Dashh uses Reclaim Protocol to verify Instagram accounts via zero-knowledge proofs—enabling fraud-free campaign validation without exposing creator credentials . This is the most innovative open-source approach to the creator fraud problem.
-
-- **Affiliate attribution is the mature open-source layer.** RefRef and Refferq handle referral tracking, commission calculation, payout scheduling, and fraud monitoring—capabilities that normally require commercial platforms .
-
-- Self-hosted open-source solutions require proper security hardening, payment processor configuration (Razorpay, Stripe, PayPal), and ongoing maintenance. Creator payments involve financial compliance that tools can support but not replace.
-
-
+11. **[DevFund](https://www.linkedin.com/posts/krishna-khandelwal-470b30280_devfund-buildinpublic-opensource-activity-7438461523926175744-6Yqi)** [![GitHub stars](https://img.shields.io/badge/Status-In%20Development-blue?style=social&color=white)](https://www.linkedin.com/posts/krishna-khandelwal-470b30280_devfund-buildinpublic-opensource-activity-7438461523926175744-6Yqi)  
+    💡 Developer-focused sponsorship platform supporting open-source maintainers through monthly tier-based sponsorship, private repository access, and exclusive milestone previews.
 
 ---
 
+## 🛠️ Frameworks & Architecture for Custom Systems
 
+Building your own vendor-independent creator sponsorship stack? Consider combining:
+- **Discovery & AI Pricing**: Integrate **[InPactAI](https://github.com/AOSSIE-Org/InPactAI)** for engagement evaluation and match scoring.
+- **Workflow & Escrow Execution**: Deploy **[CollabX](https://github.com/rebin03/CollabX)** for application handling and payout escrow.
+- **Fraud Prevention**: Leverage **[Dashh](https://github.com/alphoder/Dashh)** with zkTLS / Reclaim Protocol for zero-knowledge creator verification.
+- **Affiliate & Referral Engine**: Embed **[refref](https://github.com/amicalhq/refref)** or **[Refferq](https://github.com/Refferq/Refferq)** for granular attribution and conversion-based payouts.
+- **AI Agent Automation**: Implement **[affiliate-skills](https://github.com/Affitor/affiliate-skills)** to automate outreach copy and campaign collateral.
 
-**Made for creator marketing teams, brand partnership leads, and developers building transparent sponsorship matching solutions.**  
+---
 
-Let's make Creator Economy Sponsorship Matching more open, data-driven, and creator-friendly.
+## 🤝 How to Contribute
+
+Contributions are warmly encouraged! Help keep this ecosystem resource comprehensive, up-to-date, and accurate:
+
+1. 🍴 **Fork** the repository.
+2. 🌿 Create your feature branch (`git checkout -b feature/add-new-tool`).
+3. 📝 Update [`README.md`](README.md) following the existing tabular or ranked badge format:
+   - Provide direct official links.
+   - For SaaS tools: include exact starting price tiers, free trial/tier constraints, and valuation/revenue estimates.
+   - For Open-Source projects: provide the GitHub repository link, star badge (`style=social&color=white`), and an architectural summary.
+4. 🚀 Commit your changes (`git commit -m 'Add ToolName to ecosystem'`).
+5. 📬 Open a **Pull Request** with context on why the addition adds value to creator economy professionals.
+
+---
+
+## 💖 Support
+
+If you found this curated list helpful for your brand, agency, or open-source software stack, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and share** it with your fellow marketers, developers, and founders.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and curation on the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Creator-Economy-Sponsorship-Matching-Tools&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Creator-Economy-Sponsorship-Matching-Tools&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated index** created for educational, research, and benchmarking purposes. Inclusion does not imply official endorsement.
+- Platforms handling influencer, creator, and audience personal data must adhere strictly to global data protection laws (GDPR, CCPA) and regional advertising disclosure regulations (e.g., FTC Endorsement Guides).
+- Pricing tiers, free trial terms, and corporate valuations fluctuate over time; always confirm directly with respective service providers.
+
+---
+
+<div align="center">
+  <b>Built for creator marketing teams, brand partnership directors, and open-source engineers.</b><br />
+  <sub>Let's make Creator Economy Sponsorship Matching transparent, accessible, and data-driven.</sub>
+</div>
