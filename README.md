@@ -71,39 +71,39 @@ The table below outlines leading commercial platforms, ranked descending by esti
 
 Open-source alternatives provide customizable pipelines, fraud resistance, decentralized monetization, and direct affiliate/referral tracking without vendor lock-in. 
 
-*Repositories are sorted in descending order by GitHub star count:*
+*Repositories are sorted in descending order by GitHub Stars_Count:*
 
-1. **[Affitor / affiliate-skills](https://github.com/Affitor/affiliate-skills)** [![GitHub stars](https://img.shields.io/github/stars/Affitor/affiliate-skills?style=social&color=white)](https://github.com/Affitor/affiliate-skills/stargazers)  
+1. **[Affitor / affiliate-skills](https://github.com/Affitor/affiliate-skills)** [![GitHub_Stars](https://img.shields.io/github/stars/Affitor/affiliate-skills?style=social&color=white)](https://github.com/Affitor/affiliate-skills/stargazers)  
    🚀 50+ AI agent skills for affiliate marketing automation. Powers research on trending creator content, data-backed promotional copywriting, infographic generation, and automated affiliate funnels compatible with Claude Code, Cursor, ChatGPT, and Gemini.
 
-2. **[amicalhq / refref](https://github.com/amicalhq/refref)** [![GitHub stars](https://img.shields.io/github/stars/amicalhq/refref?style=social&color=white)](https://github.com/amicalhq/refref/stargazers)  
+2. **[amicalhq / refref](https://github.com/amicalhq/refref)** [![GitHub_Stars](https://img.shields.io/github/stars/amicalhq/refref?style=social&color=white)](https://github.com/amicalhq/refref/stargazers)  
    🎯 Open-source referral and affiliate marketing platform built with TypeScript, Next.js, PostgreSQL, Redis, and BullMQ (AGPLv3). Features JavaScript attribution snippets, customizable partner reward structures, fraud detection, and an affiliate/creator self-service portal.
 
-3. **[Refferq / Refferq](https://github.com/Refferq/Refferq)** [![GitHub stars](https://img.shields.io/github/stars/Refferq/Refferq?style=social&color=white)](https://github.com/Refferq/Refferq/stargazers)  
+3. **[Refferq / Refferq](https://github.com/Refferq/Refferq)** [![GitHub_Stars](https://img.shields.io/github/stars/Refferq/Refferq?style=social&color=white)](https://github.com/Refferq/Refferq/stargazers)  
    💳 Modern open-source referral and affiliate marketing platform tailored for SaaS companies (MIT). Built with Next.js 15, React 19, Prisma, and Tailwind CSS. Provides commission automation, payout scheduling (PayPal, Stripe, Wise), affiliate dashboards, and branded tracking assets.
 
-4. **[AOSSIE-Org / InPactAI](https://github.com/AOSSIE-Org/InPactAI)** [![GitHub stars](https://img.shields.io/github/stars/AOSSIE-Org/InPactAI?style=social&color=white)](https://github.com/AOSSIE-Org/InPactAI/stargazers)  
+4. **[AOSSIE-Org / InPactAI](https://github.com/AOSSIE-Org/InPactAI)** [![GitHub_Stars](https://img.shields.io/github/stars/AOSSIE-Org/InPactAI?style=social&color=white)](https://github.com/AOSSIE-Org/InPactAI/stargazers)  
    🤖 AI-powered open-source matchmaking engine connecting content creators, brands, and marketing agencies. Employs generative AI, audience analytics, and engagement metrics to estimate sponsorship pricing and maximize partnership ROI.
 
-5. **[sdntsng / sheety-crm](https://github.com/sdntsng/sheety-crm)** [![GitHub stars](https://img.shields.io/github/stars/sdntsng/sheety-crm?style=social&color=white)](https://github.com/sdntsng/sheety-crm/stargazers)  
+5. **[sdntsng / sheety-crm](https://github.com/sdntsng/sheety-crm)** [![GitHub_Stars](https://img.shields.io/github/stars/sdntsng/sheety-crm?style=social&color=white)](https://github.com/sdntsng/sheety-crm/stargazers)  
    📋 Lightweight, stateless open-source CRM built directly on Google Sheets (MIT). Features Kanban pipelines, creator lead management, and activity tracking—ideal for early-stage creator outreach without infrastructure overhead.
 
-6. **[oratis / influencex](https://github.com/oratis/influencex)** [![GitHub stars](https://img.shields.io/github/stars/oratis/influencex?style=social&color=white)](https://github.com/oratis/influencex/stargazers)  
+6. **[oratis / influencex](https://github.com/oratis/influencex)** [![GitHub_Stars](https://img.shields.io/github/stars/oratis/influencex?style=social&color=white)](https://github.com/oratis/influencex/stargazers)  
    📊 Open-source KOL (Key Opinion Leader) and influencer marketing platform built with React, Node.js, and PostgreSQL. Supports multi-platform creator cataloging, automated outreach workflows, and campaign conversion tracking.
 
-7. **[district0x / StreamTide](https://github.com/district0x/StreamTide)** [![GitHub stars](https://img.shields.io/github/stars/district0x/StreamTide?style=social&color=white)](https://github.com/district0x/StreamTide/stargazers)  
+7. **[district0x / StreamTide](https://github.com/district0x/StreamTide)** [![GitHub_Stars](https://img.shields.io/github/stars/district0x/StreamTide?style=social&color=white)](https://github.com/district0x/StreamTide/stargazers)  
    🌊 Web3-based decentralized patronage and grant-matching platform designed to amplify community financial support for digital creators through quadratic and pooled funding mechanisms.
 
-8. **[alphoder / Dashh](https://github.com/alphoder/Dashh)** [![GitHub stars](https://img.shields.io/github/stars/alphoder/Dashh?style=social&color=white)](https://github.com/alphoder/Dashh/stargazers)  
+8. **[alphoder / Dashh](https://github.com/alphoder/Dashh)** [![GitHub_Stars](https://img.shields.io/github/stars/alphoder/Dashh?style=social&color=white)](https://github.com/alphoder/Dashh/stargazers)  
    🛡️ Decentralized influencer marketing platform built on Solana utilizing zkTLS zero-knowledge proofs and Reclaim Protocol. Brands post campaigns via Solana Actions (Blinks) and verify creator deliverables and views trustlessly without accessing private credentials.
 
-9. **[rebin03 / CollabX](https://github.com/rebin03/CollabX)** [![GitHub stars](https://img.shields.io/github/stars/rebin03/CollabX)](https://github.com/rebin03/CollabX/stargazers)  
+9. **[rebin03 / CollabX](https://github.com/rebin03/CollabX)** [![GitHub_Stars](https://img.shields.io/github/stars/rebin03/CollabX)](https://github.com/rebin03/CollabX/stargazers)  
    🤝 Full-lifecycle influencer collaboration system built with Django and Python (MIT). Manages creator discovery by niche, campaign brief applications, proposal reviews, milestones, and secure escrow payouts via Razorpay.
 
-10. **[OmAmar106 / Influencer-Sponsorship-Engagement-System](https://github.com/OmAmar106/Influencer-Sponsorship-Engagement-System-23f2002152)** [![GitHub stars](https://img.shields.io/github/stars/OmAmar106/Influencer-Sponsorship-Engagement-System-23f2002152?style=social&color=white)](https://github.com/OmAmar106/Influencer-Sponsorship-Engagement-System-23f2002152/stargazers)  
+10. **[OmAmar106 / Influencer-Sponsorship-Engagement-System](https://github.com/OmAmar106/Influencer-Sponsorship-Engagement-System-23f2002152)** [![GitHub_Stars](https://img.shields.io/github/stars/OmAmar106/Influencer-Sponsorship-Engagement-System-23f2002152?style=social&color=white)](https://github.com/OmAmar106/Influencer-Sponsorship-Engagement-System-23f2002152/stargazers)  
     📦 Complete sponsorship campaign and contract workflow system connecting brand sponsors with social influencers for deliverable tracking, proposal negotiations, and engagement evaluation.
 
-11. **[DevFund](https://www.linkedin.com/posts/krishna-khandelwal-470b30280_devfund-buildinpublic-opensource-activity-7438461523926175744-6Yqi)** [![GitHub stars](https://img.shields.io/badge/Status-In%20Development-blue?style=social&color=white)](https://www.linkedin.com/posts/krishna-khandelwal-470b30280_devfund-buildinpublic-opensource-activity-7438461523926175744-6Yqi)  
+11. **[DevFund](https://www.linkedin.com/posts/krishna-khandelwal-470b30280_devfund-buildinpublic-opensource-activity-7438461523926175744-6Yqi)** [![GitHub_Stars](https://img.shields.io/badge/Status-In%20Development-blue?style=social&color=white)](https://www.linkedin.com/posts/krishna-khandelwal-470b30280_devfund-buildinpublic-opensource-activity-7438461523926175744-6Yqi)  
     💡 Developer-focused sponsorship platform supporting open-source maintainers through monthly tier-based sponsorship, private repository access, and exclusive milestone previews.
 
 ---
@@ -128,7 +128,7 @@ Contributions are warmly encouraged! Help keep this ecosystem resource comprehen
 3. 📝 Update [`README.md`](README.md) following the existing tabular or ranked badge format:
    - Provide direct official links.
    - For SaaS tools: include exact starting price tiers, free trial/tier constraints, and valuation/revenue estimates.
-   - For Open-Source projects: provide the GitHub repository link, star badge (`style=social&color=white`), and an architectural summary.
+   - For Open-Source projects: provide the GitHub repository link, Stars_Badge (`style=social&color=white`), and an architectural summary.
 4. 🚀 Commit your changes (`git commit -m 'Add ToolName to ecosystem'`).
 5. 📬 Open a **Pull Request** with context on why the addition adds value to creator economy professionals.
 
