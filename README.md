@@ -30,79 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global creator economy sponsorship and influencer marketing sector is estimated at **$32.5B–$40B+** (heading toward a broader **$480B** creator ecosystem by 2027). The market is **highly fragmented** rather than concentrated/winner-take-all: the top ten platforms hold under 30% of aggregate industry revenue, driven by a massive long tail of over 50 million creators and decentralized brand spend across micro and nano partnerships.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Grin](https://grin.co/)**  
-
-  All-in-one creator management platform for e-commerce brands. Combines creator discovery, outreach, campaign execution, and reporting with Shopify integration.
-
-
-
-- **[CreatorIQ](https://www.creatoriq.com/)**  
-
-  Enterprise influencer marketing platform powered by data science. Features AI-powered creator discovery, campaign management, and enterprise-grade talent CRM .
-
-
-
-- **[Aspire](https://www.aspireiq.com/)**  
-
-  Creator marketing platform for building brand communities and tracking ROI. Features creator discovery, campaign management, and content analytics .
-
-
-
-- **[Upfluence](https://www.upfluence.com/)**  
-
-  All-in-one influencer and affiliate marketing platform for e-commerce. Features creator discovery, Creator Lookalikes, AI Mailing Assistant, and affiliate tracking .
-
-
-
-- **[Captiv8](https://captiv8.io/)**  
-
-  Creator marketing platform with audience intelligence, creator discovery, and campaign measurement. Features social listening and brand safety tools.
-
-
-
-- **[Traackr](https://www.traackr.com/)**  
-
-  Influencer relationship management platform. Features creator discovery, campaign tracking, and performance analytics across social platforms.
-
-
-
-- **[Creator.co](https://creator.co/)**  
-
-  Creator marketplace and campaign management platform connecting brands with creators for UGC and influencer campaigns.
-
-
-
-- **[Modash](https://www.modash.io/)**  
-
-  End-to-end influencer marketing SaaS platform built for Shopify brands. Features creator discovery, campaign management, content tracking, affiliate management, and creator payments. Serves 1,900+ B2C influencer marketing teams globally .
-
-
-
-- **[Impact.com](https://impact.com/)**  
-
-  Partnership management platform covering affiliates, influencers, and B2B partnerships. Features attribution, contract management, and payment processing.
-
-
-
-- **[NeoReach](https://neoreach.com/)**  
-
-  Influencer marketing platform with creator discovery, campaign management, and analytics. Features audience demographics and engagement scoring.
-
-
+| Platform | Company Size (Valuation / Est. Revenue) | Starting Price | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Impact.com](https://impact.com/)** | **$1.5B valuation** (~$270M+ ARR) | $30/mo (Shopify Starter) or $500/mo (Essentials) | 30-day free trial on self-serve starter plans (credit card required, capped discovery/tracking features) | Partnership management platform covering affiliates, influencers, and B2B partnerships. Features attribution, contract management, and payment processing. |
+| **[Grin](https://grin.co/)** | **~$1.0B valuation** (~$35M–$55M ARR) | $200/mo (Starter plan, billed annually) | Free-for-ever tier with 5 creator relationship profiles & limited discovery credits; 30-day free trial for Starter features | All-in-one creator management platform for e-commerce brands. Combines creator discovery, outreach, campaign execution, and reporting with Shopify integration. |
+| **[CreatorIQ](https://www.creatoriq.com/)** | **~$400M–$500M est. val** (~$70M–$100M ARR; $80M+ raised) | $2,500/mo ($30,000/yr billed annually) | 14-day guided proof-of-concept trial via sales qualification (access limited to 1 user and 25 search lookups) | Enterprise influencer marketing platform powered by data science. Features AI-powered creator discovery, campaign management, and enterprise-grade talent CRM. |
+| **[Captiv8](https://captiv8.io/)** | **$150M acquisition valuation** (by Publicis Groupe; ~$25M ARR) | $2,083/mo ($25,000/yr billed annually) | 7-day sales-approved sandbox trial (capped at 50 creator profile analyses and 1 campaign draft) | Creator marketing platform with audience intelligence, creator discovery, and campaign measurement. Features social listening and brand safety tools. |
+| **[Traackr](https://www.traackr.com/)** | **~$100M est. val** (~$20M–$25M ARR; $20M raised) | $1,667/mo ($20,000/yr billed annually) | 14-day trial available upon enterprise consultation (limited to 10 creator analyses and 1 sample benchmark report) | Influencer relationship management platform. Features creator discovery, campaign tracking, and performance analytics across social platforms. |
+| **[Aspire](https://www.aspireiq.com/)** | **~$80M–$120M est. val** (~$15M–$20M ARR; $30M+ raised) | $2,500/mo ($30,000/yr billed annually) | Free-for-ever account for creators/influencers (100% free with unlimited incoming briefs); 14-day pilot for qualified brand demos | Creator marketing platform for building brand communities and tracking ROI. Features creator discovery, campaign management, and content analytics. |
+| **[Upfluence](https://www.upfluence.com/)** | **~$60M–$80M est. val** (~$20M–$25M ARR) | $478/mo (billed annually on 12-month agreement) | Free Chrome browser extension (up to 20 profile analyses/month); custom 7-day pilot trial following sales demo | All-in-one influencer and affiliate marketing platform for e-commerce. Features creator discovery, Creator Lookalikes, AI Mailing Assistant, and affiliate tracking. |
+| **[Modash](https://www.modash.io/)** | **~$50M est. val** (~$10M ARR; $14M raised) | $199/mo (billed annually) or $299/mo (billed monthly) | 14-day free trial (no credit card required, includes 100 creator profile views and 10 export credits) | End-to-end influencer marketing SaaS platform built for Shopify brands. Features creator discovery, campaign management, content tracking, affiliate management, and creator payments. Serves 1,900+ B2C influencer marketing teams globally. |
+| **[NeoReach](https://neoreach.com/)** | **~$20M–$30M est. val** (~$4M–$5M ARR; $4.3M raised) | $2,083/mo ($25,000/yr billed annually) | 14-day structured sandbox trial upon demo request (capped at 10 creator searches and 3 report exports) | Influencer marketing platform with creator discovery, campaign management, and analytics. Features audience demographics and engagement scoring. |
+| **[Creator.co](https://creator.co/)** | **~$6M–$10M est. val** (~$4M ARR; $1.9M raised) | $299/mo (Self-serve plan) | 7-day limited test trial upon request (view-only marketplace access; maximum 5 creator invites) | Creator marketplace and campaign management platform connecting brands with creators for UGC and influencer campaigns. |
 
 ## Open-Source GitHub Projects
 
